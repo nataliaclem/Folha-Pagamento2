@@ -1,0 +1,8 @@
+// arquivo tsconfig.json
+{
+  "compilerOptions": {
+    "lib": ["ES2023"],
+    "module": "Node16",
+    "target": "ES2022",                             
+  }
+}
